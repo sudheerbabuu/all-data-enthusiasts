@@ -35,11 +35,7 @@
 
 Feel free to contribute anything but please open an issue first.
 
-Want to say thanks? xch18csq9v42nvmdwckkte2cke8vdmrv7ew8xqtqdswyult29gk5p7eqv95nge
-
-
-
-
+Want to say thanks? 
 Follow https://www.linkedin.com/in/sudheer-babu/ 🔺 for more such informative resources and stories.
 .
 .
