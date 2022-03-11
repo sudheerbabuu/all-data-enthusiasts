@@ -31,9 +31,18 @@ This post is intended to share insightful resources:
 👉Refer this medium article by Antriksh Goel - https://lnkd.in/dyJ6Q7JB
 
 
-Follow https://www.linkedin.com/in/sudheer-babu/ 🔺 for more such informative resources and stories.
+# Contributing
+
+Feel free to contribute anything but please open an issue first.
+
+Want to say thanks? xch18csq9v42nvmdwckkte2cke8vdmrv7ew8xqtqdswyult29gk5p7eqv95nge
+
+
+
+
+# Follow https://www.linkedin.com/in/sudheer-babu/ 🔺 for more such informative resources and stories.
 .
 .
 .
-#data #datascientist #python #sql #business #datascientists #dataengineering #datamining #machinelearning #bigdata #artificialintelligence #statistics #productmanagement #datascience #deeplearning #engineering #computing #cloud #ml #ai #cloudcomputing #technology #innovation #learning
+# data #datascientist #python #sql #business #datascientists #dataengineering #datamining #machinelearning #bigdata #artificialintelligence #statistics #productmanagement #datascience #deeplearning #engineering #computing #cloud #ml #ai #cloudcomputing #technology #innovation #learning
 
