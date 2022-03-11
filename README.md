@@ -2,7 +2,7 @@
 🔖For all data enthusiasts ➖ Data Scientist, Data Engineer, Data Analyst, Big Data Engineer, ML/AI Engineer, Deep learning Engineer. ⚡
 
 
-This post is intended to share insightful resources:
+# This post is intended to share insightful resources:
 
 🎯SQL Cookbook O'Reilly Media and Yugabyte - https://lnkd.in/dy-9w4NB
 
@@ -40,9 +40,9 @@ Want to say thanks? xch18csq9v42nvmdwckkte2cke8vdmrv7ew8xqtqdswyult29gk5p7eqv95n
 
 
 
-# Follow https://www.linkedin.com/in/sudheer-babu/ 🔺 for more such informative resources and stories.
+Follow https://www.linkedin.com/in/sudheer-babu/ 🔺 for more such informative resources and stories.
 .
 .
 .
-# data #datascientist #python #sql #business #datascientists #dataengineering #datamining #machinelearning #bigdata #artificialintelligence #statistics #productmanagement #datascience #deeplearning #engineering #computing #cloud #ml #ai #cloudcomputing #technology #innovation #learning
+#data #datascientist #python #sql #business #datascientists #dataengineering #datamining #machinelearning #bigdata #artificialintelligence #statistics #productmanagement #datascience #deeplearning #engineering #computing #cloud #ml #ai #cloudcomputing #technology #innovation #learning
 
