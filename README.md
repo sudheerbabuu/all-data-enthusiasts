@@ -2,7 +2,7 @@
 🔖For all data enthusiasts ➖ Data Scientist, Data Engineer, Data Analyst, Big Data Engineer, ML/AI Engineer, Deep learning Engineer. ⚡
 
 
-# This post is intended to share insightful resources:
+# This post is intended to share insightful resources-
 
 🎯SQL Cookbook O'Reilly Media and Yugabyte - https://lnkd.in/dy-9w4NB
 
